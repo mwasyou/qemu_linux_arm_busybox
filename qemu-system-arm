@@ -1,1 +1,1 @@
-out/qemu-1.7.0/bin/qemu-system-arm
+./tools/qemu-1.7.0/bin/qemu-system-arm
